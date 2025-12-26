@@ -1,6 +1,4 @@
 | Name| Github-ID  | College name |  
-|:-------------|:------------|:----------------|
+|Asra Tabassum|Tabassumasra05|IIIT Allahabad|
 
-<!-- ADD ABOVE THIS-->
-<!--example |Korvac | Betty |Reyansh College| IIT2024067|>
 
