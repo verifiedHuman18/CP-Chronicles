@@ -49,6 +49,6 @@
 | Ishan Raj Singh        | ishanrajsingh            | Amity, Noida                                                    |
 | Lakshmish            | Coldesy             | IIIT Allahabad 
 |Priyanshu Ranjan        | justpriyanshu            | BIT Mesra
-
+| Vrajkumar Shah        | vraj826                   | DDU, Nadiad
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
