@@ -28,6 +28,7 @@ Input:
 Output:
 9
 
+Submission Link : https://codeforces.com/contest/1560/submission/355273828
 */
 
 int main() {
